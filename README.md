@@ -1,7 +1,4 @@
-<h1 align="center">Hi 👋, I'm Vasiliy</h1>
-<h3 align="center">Java learner</h3>
-
-- 🔭 I’m currently working on [Modern Robotic Java library](https://github.com/VasiliyMartynov/Robot)
+<h1 align="center">Hi 👋, I'm Vasiliy Martnyov</h1>
 
 - 👨‍💻 All of my projects are available at [https://github.com/VasiliyMartynov](https://github.com/VasiliyMartynov)
 
