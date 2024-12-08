@@ -3,8 +3,6 @@
 
 - 🔭 I’m currently working on [Modern Robotic Java library](https://github.com/VasiliyMartynov/Robot)
 
-- 🌱 I’m currently learning **Line algerba)**
-
 - 👨‍💻 All of my projects are available at [https://github.com/VasiliyMartynov](https://github.com/VasiliyMartynov)
 
 - 📫 How to reach me **vmartynov@outlook.com**
